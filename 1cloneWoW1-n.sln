@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLONEWoW_1_n", "WindowsFormsApplication1\CLONEWoW_1_n.csproj", "{DAFEC849-8DA8-4912-9FAC-14C17AAA07FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFEC849-8DA8-4912-9FAC-14C17AAA07FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFEC849-8DA8-4912-9FAC-14C17AAA07FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFEC849-8DA8-4912-9FAC-14C17AAA07FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFEC849-8DA8-4912-9FAC-14C17AAA07FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

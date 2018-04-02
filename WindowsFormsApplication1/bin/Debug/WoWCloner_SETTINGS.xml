@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QS_PathSetting>
+  <StartTab>Full</StartTab>
+  <Mini_pathSource>Z:\VM\wow1</Mini_pathSource>
+  <Mini_pathDest>C:\wow</Mini_pathDest>
+  <Mini_pathHB>Z:\VM\zzzx</Mini_pathHB>
+  <Mini_pathVM>Z:\VM</Mini_pathVM>
+  <Full_pathSource>D:\VM\wow1</Full_pathSource>
+  <Full_pathDest>D:\GAMES\wow</Full_pathDest>
+  <Full_pathHB>D:\VM\zzzx</Full_pathHB>
+  <Full_pathVM>D:\VM</Full_pathVM>
+</QS_PathSetting>
